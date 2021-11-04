@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Kahssie, but you can call me Cass!
+- 🎓 Currently undergrad, studying computer science & design with a specialized track of IoT & Cloud!
 - 👀 I’m interested in a wide range of topics: 
   * IoT
   * A little bit of cloud
