@@ -8,6 +8,10 @@
 - 🌱 I’m currently learning:
   * HTML+CSS+JS
   * Machine learning with Pytorch, namely image handling
+- 💪 I'm working to improve my skills on:
+  * Java
+  * Python
+  * Competitive coding + algorithmic thinking and problem solving
 
 <!---
 Kahssie/Kahssie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
