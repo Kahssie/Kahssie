@@ -22,6 +22,13 @@
   * Game development with peers
   * UI/UX designing on platforms like Figma and Adobe Illustrator
 
+Skills & technologies I've dabbled in!
+<p float="left">
+    <img src="icons/icons8-android-studio-48.png"/>
+    <img src="icons/icons8-java-48.png"/>
+    <img src="icons/icons8-python-48.png">
+
+
 <!---
 Kahssie/Kahssie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
