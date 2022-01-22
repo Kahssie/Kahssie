@@ -27,6 +27,7 @@ Skills & technologies I've dabbled in!
     <img src="icons/icons8-android-studio-48.png"/>
     <img src="icons/icons8-java-48.png"/>
     <img src="icons/icons8-python-48.png">
+    <img src="icons/logo-plotly.svg">
 
 
 <!---
