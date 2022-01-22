@@ -25,7 +25,7 @@
 Skills & technologies I've dabbled in!
 <p float="left">
     <img src="icons/icons8-python-48.png">
-    <img src="icons/pytorch_logo_icon_169823.png ">
+    <img src="icons/pytorch_logo_icon_169823.png">
     <img src="icons/logo-plotly.svg">
     <img src="icons/icons8-android-studio-48.png"/>
     <img src="icons/icons8-java-48.png"/>
